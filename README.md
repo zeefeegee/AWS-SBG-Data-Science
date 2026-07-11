@@ -6,7 +6,7 @@ Role: Data Science SkillBuilder Lead
 ---
 
 ## Purpose
-This repository is used for documentation purposes to fulfill the requirements of the organization. It tracks my cloud projects and learning milestones as part of Group Celestia.
+This repository is used for documentation purposes to fulfill the requirements of the organization. It tracks my cloud projects and learning milestones as part of AWS SkillBuilder Group - Celestia.
 
 ---
 
