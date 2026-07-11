@@ -1,7 +1,7 @@
 # AWS SkillBuilder — Group Celestia
 By Vhon Daniel Pimentel | July 2026
 
-Role: Data Science Skill Builder Lead  
+Role: Data Science SkillBuilder Lead  
 
 ---
 
