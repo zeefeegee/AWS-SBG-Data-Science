@@ -12,5 +12,6 @@ This repository is used for documentation purposes to fulfill the requirements o
 
 ## Completed Projects
 
-* Cloud Security with AWS IAM — Learned how to manage EC2 instances and set up secure access controls using IAM Policies, Users, and User Groups.
 * AWS Account Setup — Set up a new AWS account, activated basic support, and configured cost management and free tier alerts.
+* Cloud Security with AWS IAM — Learned how to manage EC2 instances and set up secure access controls using IAM Policies, Users, and User Groups.
+
