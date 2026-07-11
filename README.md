@@ -7,7 +7,8 @@ Role: Data Science SkillBuilder Lead
 
 ## Purpose
 This repository is used for documentation purposes to fulfill the requirements of the organization. It tracks my cloud projects and learning milestones as part of AWS SkillBuilder Group - Celestia. 
-I utilized Nextcloud, Notion, and Google Docs as the primary platforms for compiling and managing this documentation.
+
+I utilized Nextwork, Notion, and Google Docs as the primary platforms for compiling and managing this documentation.
 
 ---
 
