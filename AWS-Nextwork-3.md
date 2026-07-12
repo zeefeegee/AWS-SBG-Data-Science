@@ -16,3 +16,8 @@ Databases are basically just a container where you store data. Cloud engineers n
 ## What do database professionals do?
 
 Database professionals are responsible for handling database, making sure it is secure and managed properly. The most interesting part of their job is managing the information of an enterprise, that job is really scary to me ngl.
+
+## Things that I need to learn
+*SQL
+*DynamoDB
+*CloudShell
