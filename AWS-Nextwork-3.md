@@ -1,4 +1,5 @@
-# I'm building database solutions on AWS
+# Get Hands on With AWS Databases!
+By Vhon Daniel Pimentel | July 2026
 
 In this AWS Databases series, I'm learning about how traditional database differs from cloud database. By the end of these projects, I will have an understanding of what is the difference between the two and also have experience with AWS Databases.
 ---
