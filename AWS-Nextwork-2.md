@@ -11,3 +11,11 @@ Services I used were IAM, and EC2. Key concepts I learnt include user management
 
 ## Project reflection
 This project took me approximately 30 minutes. The most challenging part was cleaning up because I have to make sure that I did not miss anything. It was most rewarding to manage the users as this is one of the skills you need not just in AWS, but in other security applications/cloud as well.
+
+## What I did basically
+- I created an IAM account  
+- I created an alias  
+- I created a policy  
+- I created 2 EC2 instances  
+- I tested the policies by trying to stop an instance without the required permission  
+- I cleaned up the resources  
