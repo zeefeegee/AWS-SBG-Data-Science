@@ -16,4 +16,5 @@ I utilized Nextwork, Notion, and Google Docs as the primary platforms for compil
 
 * AWS Account Setup — Set up a new AWS account, activated basic support, and configured cost management and free tier alerts.
 * Cloud Security with AWS IAM — Learned how to manage EC2 instances and set up secure access controls using IAM Policies, Users, and User Groups.
+* Get Hands on with AWS Database! - Learned what AWS Database Services are, and compared Traditional Database vs. Cloud Database.
 
