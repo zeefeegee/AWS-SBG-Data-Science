@@ -4,7 +4,8 @@ By Vhon Daniel Pimentel | July 2026
 ![Database Comparison Infographic](https://nextwork.ai/projects/static/aws-databases-intro/cloud-switch-nobg.png)
 
 In this AWS Databases series, I'm learning about how traditional database differs from cloud database. By the end of these projects, I will have an understanding of what is the difference between the two and also have experience with AWS Databases.
----
+
+
 
 ## Excited to share my progress – explore AWS databases with me!
 
