@@ -1,6 +1,6 @@
 # I'm building database solutions on AWS
 
-In this AWS Databases series, I'm learning about how traditional database differs from cloud database[cite: 1]. By the end of these projects, I will have an understanding of what is the difference between the two and also have experience with AWS Databases.
+In this AWS Databases series, I'm learning about how traditional database differs from cloud database. By the end of these projects, I will have an understanding of what is the difference between the two and also have experience with AWS Databases.
 ---
 
 ## Excited to share my progress – explore AWS databases with me!
